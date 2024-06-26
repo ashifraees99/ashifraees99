@@ -59,7 +59,7 @@
 
 ## 📫 Contact
 
-- Email: [ashifraees@outlook.com](mailto:ashifraees@outlook.com)
+- Email: [ashif@outlook.com](mailto:ashifraees@outlook.com)
 - My Portfolio: [Click here](https://ashifraees99.github.io/)
 
 <!-- ## 📊 GitHub Stats
