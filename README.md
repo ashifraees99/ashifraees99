@@ -32,19 +32,16 @@
 #### 🔧 DevOps
 <img src="./assets/DevOps/Bash.svg" width="40" height="40"/><img src="./assets/DevOps/Ubuntu.svg" width="40" height="40"/>
 <img src="./assets/DevOps/Git.svg" width="40" height="40"/>
-<img src="./assets/DevOps/Vim.svg" width="40" height="40"/>
-<img src="./assets/DevOps/VSCode.svg" width="40" height="40"/>
 <img src="./assets/DevOps/DVC.svg" width="40" height="40"/>
 <img src="./assets/DevOps/PostgresSQL.svg" width="40" height="40"/>
 <img src="./assets/DevOps/MongoDB.svg" width="40" height="40"/>
 <img src="./assets/DevOps/Cassandra.svg" width="40" height="40"/>
 <img src="./assets/DevOps/NEO4J.svg" width="40" height="40"/>
-<img src="./assets/DevOps/Jenkins.svg" width="40" height="40"/>
 <img src="./assets/DevOps/Docker.svg" width="40" height="40"/>
 <img src="./assets/DevOps/Kubernetes.svg" width="40" height="40"/>
 <img src="./assets/DevOps/Prometheus.svg" width="40" height="40"/>
 <img src="./assets/DevOps/Terraform.svg" width="40" height="40"/>
-<img src="./assets/DevOps/Ansible.svg" width="40" height="40"/>
+<img src="./assets/DevOps/GitHub%20Actions.svg" width="40" height="40"/>
 
 #### 🤖 Machine Learning
 <img src="./assets/Machine%20Learning/TensorFlow.svg" width="40" height="40"/><img src="./assets/Machine%20Learning/PyTorch.svg" width="40" height="40"/>
@@ -53,13 +50,12 @@
 <img src="./assets/Machine%20Learning/MLflow.svg" width="40" height="40"/>
 <img src="./assets/Machine%20Learning/Kubeflow.svg" width="40" height="40"/>
 <img src="./assets/Machine%20Learning/GCP.svg" width="40" height="40"/>
-<img src="./assets/Machine%20Learning/ChatGPT.svg" width="40" height="40"/>
+<img src="./assets/Machine%20Learning/GPT-4.svg" width="40" height="40"/>
 
 #### 📊 Visualization
-<img src="./assets/Visualization/Grafana.svg" width="40" height="40"/><img src="./assets/Visualization/Matplotlib.svg" width="40" height="40"/>
-<img src="./assets/Visualization/Seaborn.svg" width="40" height="40"/>
-<img src="./assets/Visualization/Tableau.svg" width="40" height="40"/>
+<img src="./assets/Visualization/Grafana.svg" width="40" height="40"/>
 <img src="./assets/Visualization/Flask.svg" width="40" height="40"/>
+<img src="./assets/Visualization/Streamlit.svg" width="40" height="40"/>
 
 ## 📫 Contact
 
