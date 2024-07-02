@@ -17,22 +17,29 @@
 - 🔬 In my free time I read about new technologies and trends. 
 
 💻 Languages
+
 <img src="./Assets/Languages/Python.svg" width="40" height="40"/><img src="./Assets/Languages/MySQL.svg" width="40" height="40"/><img src="./Assets/Languages/Bash.svg" width="40" height="40"/><img src="./Assets/Languages/C.svg" width="40" height="40"/><img src="./Assets/Languages/Cpp.svg" width="40" height="40"/><img src="./Assets/Languages/Latex.svg" width="40" height="40"/>
 
 🎨 Design & Simulation
+
 <img src="./Assets/Design%20&%20Simulation/LTSpice.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/MatLab.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/F360.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/Altium.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/LabView.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/AutoDesk.svg" width="40" height="40"/>
 
 🔧 Prototyping
+
 <img src="./Assets/Protoyping/PlatformIO.svg" width="40" height="40"/><img src="./Assets/Protoyping/MPLAB%20X.svg" width="40" height="40"/><img src="./Assets/Protoyping/ICEStudio.svg" width="40" height="40"/><img src="./Assets/Protoyping/RasPi.svg" width="40" height="40"/><img src="./Assets/Protoyping/FreeRTOS.svg" width="40" height="40"/><img src="./Assets/Protoyping/Nvidia.svg" width="40" height="40"/>
 
 📁 Other
+
 <img src="./Assets/Other/Trello.svg" width="40" height="40"/><img src="./Assets/Other/Office.svg" width="40" height="40"/><img src="./Assets/Other/AWSIoT.svg" width="40" height="40"/><img src="./Assets/Other/ROS2.svg" width="40" height="40"/><img src="./Assets/Other/GSuite.svg" width="40" height="40"/>
 
 🔧 DevOps
+
 <img src="./Assets/DevOps/Ubuntu.svg" width="40" height="40"/><img src="./Assets/DevOps/Docker.svg" width="40" height="40"/><img src="./Assets/DevOps/Git.svg" width="40" height="40"/><img src="./Assets/DevOps/GitHubActions.svg" width="40" height="40"/>
 
 🤖 Machine Learning
+
 <img src="./Assets/Machine%20Learning/OpenCV.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/YOLO.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/JAX.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/PyTorch.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/SciKit.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/TensorFlow.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/Keras.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/NumPy.svg" width="40" height="40"/>
+
 ## 📫 Contact
 
 - Email: [ashifraees@outlook.com](mailto:ashifraees@outlook.com)
