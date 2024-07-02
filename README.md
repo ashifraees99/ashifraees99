@@ -30,7 +30,7 @@
 
 📁 Other:
 
-<img src="./Assets/Other/Trello.svg" width="40" height="40"/><img src="./Assets/Other/Office.svg" width="40" height="40"/><img src="./Assets/Other/AWSIoT.svg" width="50" height="50"/><img src="./Assets/Other/ROS2.svg" width="55" height="55"/> <img src="./Assets/Other/GSuite.svg" width="40" height="40"/>
+<img src="./Assets/Other/Trello.svg" width="40" height="40"/><img src="./Assets/Other/Office.svg" width="40" height="40"/><img src="./Assets/Other/AWSIoT.svg" width="50" height="50"/><img src="./Assets/Other/ROS2.svg" width="55" height="52"/> <img src="./Assets/Other/GSuite.svg" width="40" height="40"/>
 
 🤖 Machine Learning:
 
