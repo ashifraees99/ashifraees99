@@ -16,48 +16,23 @@
 - 💭 Retrospective, Pensive and Envisionative.
 - 🔬 In my free time I read about new technologies and trends. 
 
-### 🛠️ Tech Stack
+💻 Languages
+<img src="./Assets/Languages/Python.svg" width="40" height="40"/><img src="./Assets/Languages/MySQL.svg" width="40" height="40"/><img src="./Assets/Languages/Bash.svg" width="40" height="40"/><img src="./Assets/Languages/C.svg" width="40" height="40"/><img src="./Assets/Languages/Cpp.svg" width="40" height="40"/><img src="./Assets/Languages/Latex.svg" width="40" height="40"/>
 
-#### 💻 Languages
-<img src="./assets/Languages/Python.svg" width="40" height="40"/><img src="./assets/Languages/SQL.svg" width="40" height="40"/>
-<img src="./assets/Languages/Bash.svg" width="40" height="40"/>
-<img src="./assets/Languages/R.svg" width="40" height="40"/>
-<img src="./assets/Languages/Scala.svg" width="40" height="40"/>
+🎨 Design & Simulation
+<img src="./Assets/Design%20&%20Simulation/LTSpice.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/MatLab.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/F360.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/Altium.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/LabView.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/AutoDesk.svg" width="40" height="40"/>
 
-#### 🗃️ Data Ingestion
-<img src="./assets/Data%20Ingestion/Airflow.svg" width="40" height="40"/><img src="./assets/Data%20Ingestion/Kafka.svg" width="40" height="40"/>
-<img src="./assets/Data%20Ingestion/Spark.svg" width="40" height="40"/>
-<img src="./assets/Data%20Ingestion/Pandas.svg" width="40" height="40"/>
-<img src="./assets/Data%20Ingestion/NumPy.svg" width="40" height="40"/>
+🔧 Prototyping
+<img src="./Assets/Protoyping/PlatformIO.svg" width="40" height="40"/><img src="./Assets/Protoyping/MPLAB%20X.svg" width="40" height="40"/><img src="./Assets/Protoyping/ICEStudio.svg" width="40" height="40"/><img src="./Assets/Protoyping/RasPi.svg" width="40" height="40"/><img src="./Assets/Protoyping/FreeRTOS.svg" width="40" height="40"/><img src="./Assets/Protoyping/Nvidia.svg" width="40" height="40"/>
 
-#### 🔧 DevOps
-<img src="./assets/DevOps/Ubuntu.svg" width="40" height="40"/><img src="./assets/DevOps/Git.svg" width="40" height="40"/>
-<img src="./assets/DevOps/GitHubActions.svg" width="40" height="40"/>
-<img src="./assets/DevOps/DVC.svg" width="40" height="40"/>
-<img src="./assets/DevOps/AWS.svg" width="40" height="40"/>
-<img src="./assets/DevOps/PostgresSQL.svg" width="40" height="40"/>
-<img src="./assets/DevOps/MongoDB.svg" width="40" height="40"/>
-<img src="./assets/DevOps/Docker.svg" width="40" height="40"/>
-<img src="./assets/DevOps/Kubernetes.svg" width="40" height="40"/>
-<img src="./assets/DevOps/Prometheus.svg" width="40" height="40"/>
-<img src="./assets/DevOps/Grafana.svg" width="40" height="40"/>
-<img src="./assets/DevOps/Terraform.svg" width="40" height="40"/>
+📁 Other
+<img src="./Assets/Other/Trello.svg" width="40" height="40"/><img src="./Assets/Other/Office.svg" width="40" height="40"/><img src="./Assets/Other/AWSIoT.svg" width="40" height="40"/><img src="./Assets/Other/ROS2.svg" width="40" height="40"/><img src="./Assets/Other/GSuite.svg" width="40" height="40"/>
 
-#### 🤖 Machine Learning
-<img src="./assets/Machine%20Learning/TensorFlow.svg" width="40" height="40"/><img src="./assets/Machine%20Learning/PyTorch.svg" width="40" height="40"/>
-<img src="./assets/Machine%20Learning/SciKit.svg" width="40" height="40"/>
-<img src="./assets/Machine%20Learning/Keras.svg" width="40" height="40"/>
-<img src="./assets/Machine%20Learning/JAX.svg" width="40" height="40"/>
-<img src="./assets/Machine%20Learning/XGBoost.svg" width="40" height="40"/>
-<img src="./assets/Machine%20Learning/MLflow.svg" width="40" height="40"/>
-<img src="./assets/Machine%20Learning/Kubeflow.svg" width="40" height="40"/>
-<img src="./assets/Machine%20Learning/GPT-4o.svg" width="40" height="40"/>
+🔧 DevOps
+<img src="./Assets/DevOps/Ubuntu.svg" width="40" height="40"/><img src="./Assets/DevOps/Docker.svg" width="40" height="40"/><img src="./Assets/DevOps/Git.svg" width="40" height="40"/><img src="./Assets/DevOps/GitHubActions.svg" width="40" height="40"/>
 
-#### 📊 Visualization
-<img src="./assets/Visualization/Streamlit.svg" width="40" height="40"/><img src="./assets/Visualization/Matplotlib.svg" width="40" height="40"/>
-<img src="./assets/Visualization/Seaborn.svg" width="40" height="40"/>
-<img src="./assets/Visualization/Flask.svg" width="40" height="40"/>
-
+🤖 Machine Learning
+<img src="./Assets/Machine%20Learning/OpenCV.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/YOLO.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/JAX.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/PyTorch.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/SciKit.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/TensorFlow.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/Keras.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/NumPy.svg" width="40" height="40"/>
 ## 📫 Contact
 
 - Email: [ashifraees@outlook.com](mailto:ashifraees@outlook.com)
