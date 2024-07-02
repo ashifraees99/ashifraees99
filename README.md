@@ -12,9 +12,9 @@
 
 ### 👨🏻‍💻 About Me :
 - ⚙️ I'm an organized, intuitive and detail-oriented person. Biting off more than I can chew is my default mode.
-- 📊 Passionate about playing with Data and interpreting them.
+- 📊 Passionate .
 - 💭 Retrospective, Pensive and Envisionative.
-- 🔬 In my free time I read about new technologies and trends. 
+- 🔬 In my free time I learn music theory and try to practice on my acoustic guitar and piano.
 
 💻 Languages:
 
@@ -22,7 +22,7 @@
 
 🎨 Design & Simulation:
 
-<img src="./Assets/Design%20&%20Simulation/AutoDesk.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/F360.svg" width="45" height="45"/><img src="./Assets/Design%20&%20Simulation/MatLab.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/Altium.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/LTSpice.svg" width="150" height="30"/><img src="./Assets/Design%20&%20Simulation/LabView.svg" width="40" height="40"/>
+<img src="./Assets/Design%20&%20Simulation/AutoDesk.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/F360.svg" width="45" height="45"/><img src="./Assets/Design%20&%20Simulation/MatLab.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/Altium.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/LTSpice.svg" width="150" height="30"/> <img src="./Assets/Design%20&%20Simulation/LabView.svg" width="40" height="40"/>
 
 🔧 Prototyping:
 
