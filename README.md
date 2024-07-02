@@ -26,7 +26,7 @@
 
 🔧 Prototyping:
 
-<img src="./Assets/Protoyping/PlatformIO.svg" width="40" height="40"/><img src="./Assets/Protoyping/MPLAB%20X.svg" width="40" height="40"/><img src="./Assets/Protoyping/ICEStudio.svg" width="40" height="40"/><img src="./Assets/Protoyping/RasPi.svg" width="40" height="40"/><img src="./Assets/Protoyping/FreeRTOS.svg" width="90" height="40"/><img src="./Assets/Protoyping/Nvidia.svg" width="40" height="40"/>
+<img src="./Assets/Protoyping/PlatformIO.svg" width="40" height="40"/><img src="./Assets/Protoyping/MPLAB%20X.svg" width="40" height="40"/><img src="./Assets/Protoyping/ICEStudio.svg" width="40" height="40"/><img src="./Assets/Protoyping/RasPi.svg" width="40" height="40"/><img src="./Assets/Protoyping/FreeRTOS.svg" width="100" height="40"/><img src="./Assets/Protoyping/Nvidia.svg" width="40" height="40"/>
 
 📁 Other:
 
