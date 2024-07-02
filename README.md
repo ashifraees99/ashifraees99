@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>Welcome to my profile!</h1>
   <img src="https://komarev.com/ghpvc/?username=ashifraees99&style=flat-square&color=green" alt=""/> <br>
-  <img src="/P&P.gif" width="2000"/>
+  <img src="/P&P.gif" %width="200"/>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/ashifraees/">
