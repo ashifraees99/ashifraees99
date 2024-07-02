@@ -14,7 +14,7 @@
 - ⚙️ I'm an organized, intuitive and detail-oriented person. Biting off more than I can chew is my default mode.
 - 🔬 Passionate in building autonomous systems that adds value to human life.
 - 💭 Retrospective, Pensive and Envisionative.
-- :Music: In my free time I learn music theory and try to practice on my acoustic guitar and piano.
+- 🎼 In my free time I learn music theory and try to practice on my acoustic guitar and piano.
 
 💻 Languages:
 
