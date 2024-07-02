@@ -22,7 +22,7 @@
 
 🎨 Design & Simulation
 
-<img src="./Assets/Design%20&%20Simulation/LTSpice.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/MatLab.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/F360.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/Altium.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/LabView.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/AutoDesk.svg" width="40" height="40"/>
+<img src="./Assets/Design%20&%20Simulation/LTSpice.svg" width="70" height="40"/><img src="./Assets/Design%20&%20Simulation/MatLab.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/F360.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/Altium.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/LabView.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/AutoDesk.svg" width="40" height="40"/>
 
 🔧 Prototyping
 
