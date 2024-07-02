@@ -22,7 +22,7 @@
 
 🎨 Design & Simulation:
 
-<img src="./Assets/Design%20&%20Simulation/LTSpice.svg" width="150" height="30"/><img src="./Assets/Design%20&%20Simulation/MatLab.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/F360.svg" width="45" height="45"/><img src="./Assets/Design%20&%20Simulation/Altium.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/LabView.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/AutoDesk.svg" width="40" height="40"/>
+<img src="./Assets/Design%20&%20Simulation/AutoDesk.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/F360.svg" width="45" height="45"/><img src="./Assets/Design%20&%20Simulation/MatLab.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/Altium.svg" width="40" height="40"/><img src="./Assets/Design%20&%20Simulation/LTSpice.svg" width="150" height="30"/><img src="./Assets/Design%20&%20Simulation/LabView.svg" width="40" height="40"/>
 
 🔧 Prototyping:
 
@@ -32,13 +32,13 @@
 
 <img src="./Assets/Other/Trello.svg" width="40" height="40"/><img src="./Assets/Other/Office.svg" width="40" height="40"/><img src="./Assets/Other/AWSIoT.svg" width="50" height="50"/><img src="./Assets/Other/ROS2.svg" width="40" height="50"/> <img src="./Assets/Other/GSuite.svg" width="40" height="40"/>
 
-🔧 DevOps:
-
-<img src="./Assets/DevOps/Ubuntu.svg" width="40" height="40"/><img src="./Assets/DevOps/Docker.svg" width="60" height="60"/><img src="./Assets/DevOps/Git.svg" width="40" height="40"/><img src="./Assets/DevOps/GitHubActions.svg" width="40" height="40"/>
-
 🤖 Machine Learning:
 
 <img src="./Assets/Machine%20Learning/OpenCV.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/YOLO.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/JAX.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/PyTorch.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/SciKit.svg" width="50" height="45"/><img src="./Assets/Machine%20Learning/TensorFlow.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/Keras.svg" width="40" height="40"/> <img src="./Assets/Machine%20Learning/NumPy.svg" width="40" height="40"/>
+
+🔧 DevOps:
+
+<img src="./Assets/DevOps/Ubuntu.svg" width="40" height="40"/><img src="./Assets/DevOps/Docker.svg" width="60" height="60"/><img src="./Assets/DevOps/Git.svg" width="40" height="40"/><img src="./Assets/DevOps/GitHubActions.svg" width="40" height="40"/>
 
 ## 📫 Contact
 
