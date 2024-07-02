@@ -34,7 +34,7 @@
 
 🔧 DevOps:
 
-<img src="./Assets/DevOps/Ubuntu.svg" width="40" height="40"/><img src="./Assets/DevOps/Docker.svg" width="40" height="40"/><img src="./Assets/DevOps/Git.svg" width="40" height="40"/><img src="./Assets/DevOps/GitHubActions.svg" width="40" height="40"/>
+<img src="./Assets/DevOps/Ubuntu.svg" width="40" height="40"/><img src="./Assets/DevOps/Docker.svg" width="60" height="60"/><img src="./Assets/DevOps/Git.svg" width="40" height="40"/><img src="./Assets/DevOps/GitHubActions.svg" width="40" height="40"/>
 
 🤖 Machine Learning:
 
