@@ -18,7 +18,7 @@
 
 💻 Languages:
 
-<img src="./Assets/Languages/Python.svg" width="40" height="40"/><img src="./Assets/Languages/MySQL.svg" width="40" height="40"/><img src="./Assets/Languages/Bash.svg" width="40" height="40"/><img src="./Assets/Languages/C.svg" width="40" height="40"/><img src="./Assets/Languages/Cpp.svg" width="43" height="43"/><img src="./Assets/Languages/Latex.svg" width="60" height="60"/>
+<img src="./Assets/Languages/C.svg" width="40" height="40"/><img src="./Assets/Languages/Cpp.svg" width="43" height="43"/><img src="./Assets/Languages/Python.svg" width="40" height="40"/><img src="./Assets/Languages/MySQL.svg" width="40" height="40"/><img src="./Assets/Languages/Bash.svg" width="40" height="40"/><img src="./Assets/Languages/Latex.svg" width="60" height="60"/>
 
 🎨 Design & Simulation:
 
