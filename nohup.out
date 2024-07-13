@@ -1,6 +1,0 @@
-[main 0e4396b] Automated commit - changes detected
- 1 file changed, 0 insertions(+), 0 deletions(-)
- create mode 100644 nohup.out
-To github.com:ashifraees99/ashifraees99.git
-   e9c1e14..0e4396b  main -> main
-/home/ashifraees99/auto_git_push.sh: line 28: inotifywait: command not found
