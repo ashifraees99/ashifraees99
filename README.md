@@ -22,7 +22,7 @@
 
 🛠️ Hardware:
 
-<img src="./Assets/Hardware/Expressif.svg" width="40" height="40"/><img src="./Assets/Hardware/Nvidia.svg" width="40" height="40"/><img src="./Assets/Hardware/RasPi.svg" width="40" height="40"/><img src="./Assets/Hardware/ST" width="40" height="40"/>
+<img src="./Assets/Hardware/Expressif.svg" width="40" height="40"/><img src="./Assets/Hardware/Nvidia.svg" width="40" height="40"/><img src="./Assets/Hardware/RasPi.svg" width="40" height="40"/><img src="./Assets/Hardware/ST.svg" width="40" height="40"/>
 
 💻 Software:
 
