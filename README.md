@@ -22,11 +22,11 @@
 
 🛠️ Hardware:
 
-<img src="./Assets/Hardware/Expressif.svg" width="40" height="40"/><img src="./Assets/Hardware/Nvidia.svg" width="40" height="40"/><img src="./Assets/Hardware/RasPi.svg" width="40" height="40"/><img src="./Assets/Hardware/ST.svg" width="40" height="40"/>
+<img src="./Assets/Hardware/Expressif.svg" width="40" height="40"/><img src="./Assets/Hardware/Nvidia.svg" width="40" height="40"/> <img src="./Assets/Hardware/RasPi.svg" width="40" height="40"/><img src="./Assets/Hardware/ST.svg" width="40" height="40"/>
 
 💻 Software:
 
-<img src="./Assets/Software/Altium.svg" width="40" height="40"/><img src="./Assets/Software/AutoDesk.svg" width="40" height="40"/><img src="./Assets/Software/F360.svg" width="40" height="40"/><img src="./Assets/Software/FreeRTOS.svg" width="100" height="40"/><img src="./Assets/Software/ICEStudio.svg" width="40" height="40"/><img src="./Assets/Software/LabView.svg" width="40" height="40"/><img src="./Assets/Software/LTSpice.svg" width="100" height="40"/><img src="./Assets/Software/MPLABX.svg" width="40" height="40"/><img src="./Assets/Software/PlatformIO.svg" width="40" height="40"/>
+<img src="./Assets/Software/Altium.svg" width="40" height="40"/><img src="./Assets/Software/AutoDesk.svg" width="40" height="40"/><img src="./Assets/Software/F360.svg" width="40" height="40"/><img src="./Assets/Software/FreeRTOS.svg" width="100" height="40"/><img src="./Assets/Software/ICEStudio.svg" width="40" height="40"/><img src="./Assets/Software/LabView.svg" width="40" height="40"/><img src="./Assets/Software/LTSpice.svg" width="120" height="40"/><img src="./Assets/Software/MPLABX.svg" width="40" height="40"/><img src="./Assets/Software/PlatformIO.svg" width="40" height="40"/>
 
 🤖 Machine Learning:
 
