@@ -26,7 +26,7 @@
 
 💻 Software:
 
-<img src="./Assets/Software/FreeRTOS.svg" width="100" height="40"/> <img src="./Assets/Software/PlatformIO.svg" width="40" height="40"/> <img src="./Assets/Software/MPLAB%20X.svg" width="40" height="40"/> <img src="./Assets/Software/ICEStudio.svg" width="40" height="40"/> <img src="./Assets/Software/RasPi.svg" width="43" height="43"/><img src="./Assets/Software/Nvidia.svg" width="40" height="40"/><img src="./Assets/Software/AutoDesk.svg" width="40" height="40"/><img src="./Assets/Software/F360.svg" width="45" height="45"/><img src="./Assets/Software/MatLab.svg" width="40" height="40"/><img src="./Assets/Software/Altium.svg" width="40" height="40"/><img src="./Assets/Software/LTSpice.svg" width="150" height="30"/> <img src="./Assets/Software/LabView.svg" width="40" height="40"/>
+<img src="./Assets/Software/Altium.svg" width="40" height="40"/><img src="./Assets/Software/AtoDesk.svg" width="40" height="40"/><img src="./Assets/Software/F360.svg" width="40" height="40"/><img src="./Assets/Software/FreeRTOS.svg" width="100" height="40"/><img src="./Assets/Software/ICEStudio.svg" width="40" height="40"/><img src="./Assets/Software/LabView.svg" width="40" height="40"/><img src="./Assets/Software/LTSpice.svg" width="100" height="40"/><img src="./Assets/Software/MPLABX.svg" width="40" height="40"/><img src="./Assets/Software/PlatformIO.svg" width="40" height="40"/>
 
 🤖 Machine Learning:
 
