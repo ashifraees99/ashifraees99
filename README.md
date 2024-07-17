@@ -18,7 +18,7 @@
 
 </> Languages & DevOps:
 
-<img src="./Assets/Languages & DevOps/C.svg" width="40" height="40"/><img src="./Assets/Languages & DevOps/Cpp.svg" width="43" height="43"/><img src="./Assets/Languages & DevOps/Python.svg" width="40" height="40"/><img src="./Assets/Languages & DevOps/MatLab.svg" width="40" height="40"/><img src="./Assets/Languages & DevOps/Bash.svg" width="40" height="40"/><img src="./Assets/Languages & DevOps/Latex.svg" width="60" height="60"/><img src="./Assets/Languages & DevOps/Ubuntu.svg" width="40" height="40"/><img src="./Assets/Languages & DevOps/Docker.svg" width="60" height="60"/><img src="./Assets/Languages & DevOps/Git.svg" width="40" height="40"/><img src="./Assets/Languages & DevOps/GitHubActions.svg" width="40" height="40"/>
+<img src="./Assets/Languages & DevOps/C.svg" width="39" height="39"/><img src="./Assets/Languages & DevOps/Cpp.svg" width="43" height="43"/><img src="./Assets/Languages & DevOps/Python.svg" width="40" height="40"/><img src="./Assets/Languages & DevOps/MatLab.svg" width="40" height="40"/><img src="./Assets/Languages & DevOps/Bash.svg" width="40" height="40"/><img src="./Assets/Languages & DevOps/Latex.svg" width="60" height="60"/><img src="./Assets/Languages & DevOps/Ubuntu.svg" width="40" height="40"/><img src="./Assets/Languages & DevOps/Docker.svg" width="60" height="60"/><img src="./Assets/Languages & DevOps/Git.svg" width="40" height="40"/><img src="./Assets/Languages & DevOps/GitHubActions.svg" width="40" height="40"/>
 
 🛠️ Hardware:
 
@@ -26,7 +26,7 @@
 
 💻 Software:
 
-<img src="./Assets/Software/Altium.svg" width="40" height="40"/><img src="./Assets/Software/AutoDesk.svg" width="40" height="40"/><img src="./Assets/Software/F360.svg" width="40" height="40"/><img src="./Assets/Software/FreeRTOS.svg" width="100" height="40"/><img src="./Assets/Software/ICEStudio.svg" width="40" height="40"/><img src="./Assets/Software/LabView.svg" width="40" height="40"/><img src="./Assets/Software/LTSpice.svg" width="180" height="35"/><img src="./Assets/Software/MPLABX.svg" width="40" height="40"/><img src="./Assets/Software/PlatformIO.svg" width="40" height="40"/>
+<img src="./Assets/Software/Altium.svg" width="40" height="40"/><img src="./Assets/Software/AutoDesk.svg" width="40" height="40"/><img src="./Assets/Software/F360.svg" width="40" height="40"/><img src="./Assets/Software/FreeRTOS.svg" width="100" height="40"/><img src="./Assets/Software/ICEStudio.svg" width="40" height="40"/><img src="./Assets/Software/LabView.svg" width="40" height="40"/><img src="./Assets/Software/LTSpice.svg" width="180" height="35"/> <img src="./Assets/Software/MPLABX.svg" width="40" height="40"/><img src="./Assets/Software/PlatformIO.svg" width="40" height="40"/>
 
 🤖 Machine Learning:
 
