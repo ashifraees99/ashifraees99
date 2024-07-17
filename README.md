@@ -30,7 +30,7 @@
 
 🤖 Machine Learning:
 
-<img src="./Assets/Machine%20Learning/JAX.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/Keras.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/NumPy.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/OpenCV.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/PyTorch.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/SciKit.svg" width="50" height="45"/><img src="./Assets/Machine%20Learning/TensorFlow.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/YOLO.svg" width="40" height="40"/>
+<img src="./Assets/Machine%20Learning/JAX.svg" width="40" height="40"/> <img src="./Assets/Machine%20Learning/Keras.svg" width="40" height="40"/> <img src="./Assets/Machine%20Learning/NumPy.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/OpenCV.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/PyTorch.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/SciKit.svg" width="50" height="45"/><img src="./Assets/Machine%20Learning/TensorFlow.svg" width="40" height="40"/><img src="./Assets/Machine%20Learning/YOLO.svg" width="40" height="40"/>
 
 
 ## 📫 Contact
