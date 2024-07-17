@@ -26,7 +26,7 @@
 
 💻 Software:
 
-<img src="./Assets/Software/Altium.svg" width="40" height="40"/><img src="./Assets/Software/AutoDesk.svg" width="40" height="40"/><img src="./Assets/Software/F360.svg" width="40" height="40"/><img src="./Assets/Software/FreeRTOS.svg" width="100" height="40"/><img src="./Assets/Software/ICEStudio.svg" width="40" height="40"/><img src="./Assets/Software/LabView.svg" width="40" height="40"/><img src="./Assets/Software/LTSpice.svg" width="130" height="35"/><img src="./Assets/Software/MPLABX.svg" width="40" height="40"/><img src="./Assets/Software/PlatformIO.svg" width="40" height="40"/>
+<img src="./Assets/Software/Altium.svg" width="40" height="40"/><img src="./Assets/Software/AutoDesk.svg" width="40" height="40"/><img src="./Assets/Software/F360.svg" width="40" height="40"/><img src="./Assets/Software/FreeRTOS.svg" width="100" height="40"/><img src="./Assets/Software/ICEStudio.svg" width="40" height="40"/><img src="./Assets/Software/LabView.svg" width="40" height="40"/><img src="./Assets/Software/LTSpice.svg" width="150" height="35"/><img src="./Assets/Software/MPLABX.svg" width="40" height="40"/><img src="./Assets/Software/PlatformIO.svg" width="40" height="40"/>
 
 🤖 Machine Learning:
 
