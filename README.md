@@ -18,7 +18,7 @@
 
 </> Languages & DevOps:
 
-<img src="./Assets/Languages & DevOps/C.svg" width="39" height="39"/><img src="./Assets/Languages & DevOps/Cpp.svg" width="43" height="43"/><img src="./Assets/Languages & DevOps/Python.svg" width="40" height="40"/><img src="./Assets/Languages & DevOps/MatLab.svg" width="41" height="41"/><img src="./Assets/Languages & DevOps/Bash.svg" width="40" height="40"/> <img src="./Assets/Languages & DevOps/JavaScript.svg" width="40" height="40"/> <img src="./Assets/Languages & DevOps/Ubuntu.svg" width="40" height="40"/><img src="./Assets/Languages & DevOps/Docker.svg" width="60" height="60"/><img src="./Assets/Languages & DevOps/Git.svg" width="40" height="40"/><img src="./Assets/Languages & DevOps/GitHubActions.svg" width="40" height="40"/>
+<img src="./Assets/Languages & DevOps/C.svg" width="39" height="39"/><img src="./Assets/Languages & DevOps/Cpp.svg" width="43" height="43"/><img src="./Assets/Languages & DevOps/Python.svg" width="40" height="40"/><img src="./Assets/Languages & DevOps/MatLab.svg" width="41" height="41"/><img src="./Assets/Languages & DevOps/Bash.svg" width="40" height="40"/> <img src="./Assets/Languages & DevOps/JavaScript.svg" width="40" height="40"/> <img src="./Assets/Languages & DevOps/Linux.svg" width="40" height="40"/><img src="./Assets/Languages & DevOps/Docker.svg" width="60" height="60"/><img src="./Assets/Languages & DevOps/Git.svg" width="40" height="40"/><img src="./Assets/Languages & DevOps/GitHubActions.svg" width="40" height="40"/>
 
 🛠️ Hardware:
 
